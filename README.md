@@ -22,4 +22,6 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mobx(mobx-state-tree) & GraphQL(mst-gql)](/mst-gql/)
+- [CSS Variables](/css-var/)
 <!-- BLOG-POST-LIST:END -->
