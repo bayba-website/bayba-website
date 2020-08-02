@@ -22,6 +22,6 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Mobx(mobx-state-tree) & GraphQL(mst-gql)](/mst-gql/)
-- [CSS Variables](/css-var/)
+- [Mobx(mobx-state-tree) & GraphQL(mst-gql)](https://bayba.website/mst-gql/)
+- [CSS Variables](https://bayba.website/css-var/)
 <!-- BLOG-POST-LIST:END -->
