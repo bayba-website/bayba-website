@@ -20,7 +20,7 @@
 <br>
 <br>
 
-### Blog Posts
+### Last Posts from Blog
 <!-- BLOG-POST-LIST:START -->
 - [Mobx(mobx-state-tree) & GraphQL(mst-gql)](https://bayba.website/mst-gql/)
 - [CSS Variables](https://bayba.website/css-var/)
