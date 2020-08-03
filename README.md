@@ -25,3 +25,7 @@
 - [Mobx(mobx-state-tree) & GraphQL(mst-gql)](https://bayba.website/mst-gql/)
 - [CSS Variables](https://bayba.website/css-var/)
 <!-- BLOG-POST-LIST:END -->
+
+![Bayba's github stats](https://github-readme-stats.vercel.app/api?username=bayba-website&show_icons=true&count_private=true&theme=highcontrast)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayba-website&layout=compact&theme=vue)](https://github.com/bayba-website/github-readme-stats)
