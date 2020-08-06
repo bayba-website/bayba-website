@@ -22,6 +22,7 @@
 
 ### Latest Posts from Blog
 <!-- BLOG-POST-LIST:START -->
+- [Github Profile](https://bayba.website/github-profile/)
 - [Mobx(mobx-state-tree) & GraphQL(mst-gql)](https://bayba.website/mst-gql/)
 - [CSS Variables](https://bayba.website/css-var/)
 <!-- BLOG-POST-LIST:END -->
