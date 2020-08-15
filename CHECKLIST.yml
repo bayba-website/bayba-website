@@ -1,0 +1,6 @@
+paths:
+  "*":
+    - Self-reviewing
+    - Create/Update storybook
+    - Create/Update unit test
+    - Create/Update e2e test
