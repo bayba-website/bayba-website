@@ -1,11 +1,11 @@
 paths:
   "*":
     - "**DEVELOPMENT**"
-    - Self-reviewing
+      - Self-reviewing
     
     - "**STORYBOOK**"
-    - Create/Update storybook
+      - Create/Update storybook
     
     - "**UNIT TESTS**"
-    - "Create/Update unit test"
-    - "Create/Update e2e test"
+      - "Create/Update unit test"
+      - "Create/Update e2e test"
